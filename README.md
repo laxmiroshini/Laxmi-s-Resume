@@ -3,9 +3,7 @@
 This repository contains my **HTML Resume**, which highlights my career objective, skills, education, certifications, and projects.  
 
 📌 **Live Resume Website:**  
-👉 [View My Resume](https://laxmiroshini.github.io/Resume/LaxmiResume/index.html)  
-*(replace `/Resume/` with your actual repository/folder name if different)*  
-
+👉 [View My Resume](https://laxmiroshini.github.io/Laxmi-s-Resume/index.html)  
 ---
 
 ## 👩‍💻 About Me  
